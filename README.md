@@ -1,8 +1,12 @@
 # Head Look Controller (Unity Technologies)
 
+#### Note: If you are using Unity 5+ and you are using a humanoid rig its best to just use Animator.SetLookAtPosition and Animator.SetLookAtWeight.
+They do essentially the same thing, I've included an example script in the scripts folder called "onAnimatorIK.cs"
+
+
 #### Depreciated - Version: 1.04  Jun 22, 2018
 
-No idea why this got depreciated, there was a cull a few months ago (May 2020) where a lot of older assets got removed.
+There was a cull a few months ago (May 2020) where a lot of older assets got removed.
 I've used this a few times and it's been a useful asset to modify and learn from so I've made it publicly available here at github.
 I've added the unitypackage (better for installation) and the source files here for future reference.
 
